@@ -25,13 +25,13 @@
     2.  INTRODUCE AND INSTALL a database interface that simple replaces the purpose and 
     comfortability of the paper forms with database forms.  
 
-[Form/Table];  [paper equivalent] 
-Contacts; Registration Form
-Invoices;  Reservation Form 
+        TABLE:              EQUIVALENT:
+        Contacts;       Registration Form
+        Invoices;       Reservation Form 
 
 
 
-    3.  CREATE A MAINFRAME COMPUTER area in the back office or attic; containing the network
+    3.  CREATE A MAINFRAME COMPUTER area in the         back office or attic; containing the network
         server, storage volumes, power backups, and the wi-fi modules.  Ensure that the area
         is well ventilated, but not easily accessible.  The server will operate through two
         desktop interfaces-FRONTDESK and ADMIN-as well as several mobile device interfaces.  
